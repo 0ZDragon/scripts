@@ -1,0 +1,20 @@
+# Rime dictionary: stroke
+# encoding: utf-8
+#
+# 笔画输入法（五笔画）
+# 使用陆标笔顺，没有其他地区兼容码
+# h,s,p,n,z 代表横1、竖2、撇3、捺4、折5
+#
+# 码表源自宋天郑码 笔画输入法码表.txt
+# 由x整理
+#
+
+---
+name: stroke
+version: "DDAATTEE"
+sort: by_weight              # 按字频排序
+use_preset_vocabulary: true  # 导入八股文字频
+max_phrase_length: 1         # 不生成词汇
+...
+
+〇	z
